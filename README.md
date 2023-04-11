@@ -15,4 +15,4 @@ The steps of data-visualizing are:
 4) Sales difference
 5) Top lists
 
-The result is recorded in "Viz.docx"
+The result is recorded in "Viz_result.docx"
