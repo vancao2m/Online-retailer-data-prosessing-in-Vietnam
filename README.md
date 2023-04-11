@@ -16,3 +16,4 @@ The steps of data-visualizing are:
 5) Top lists
 
 The result is recorded in "Viz_result.docx"
+And this project is in the Power BI developing phrase: https://app.powerbi.com/groups/me/reports/0ff2ffd6-d1da-4194-b5b0-c3563608549d?ctid=a7380202-eb54-415a-9b66-4d9806cfab42&pbi_source=linkShare 
