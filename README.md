@@ -1,19 +1,25 @@
 # Online-retailer-data-prosessing-in-Vietnam
 This project aims to clean and visualize data which is collected by scraping from an online retailer platform.
 The steps of data-preprocessing are:
-1) Importing packages and data
-2) Simple processing on null and unnecessary data
-3) Changing datatypes
-4) Cleaning mixed type of data such as "Da ban 134k" to reach desired form "134000" in interger type
-5) Filtering needed features
-6) Exporting
+1) Import packages and data
+2) Remove unnecessary data
+3) Category and Product ID
+4) Dealing with missing value in Sales, Price, Rating and Rating record
+5) Date
+6) Sales
+7) Rating and Rating record
+8) Price
+9) Date in a week
+10) Arange data by date in ascending order and reset index
+11) Check data information for final result
+12) Facebook preprocessing
+13) Merge Facebook data and Shopee data
+
 
 The steps of data-visualizing are:
-1) (Total sales) With value on each point
-2) (Total sales) Without value on each point
-3) Category sales
+1) Basic loading Total daily sales
+2) Category sales
+3) Rating and Rating record
 4) Sales difference
 5) Top lists
-
-The result is recorded in "Viz_result.pdf"
-And this project is in the Power BI developing phrase: https://app.powerbi.com/groups/me/reports/0ff2ffd6-d1da-4194-b5b0-c3563608549d?ctid=a7380202-eb54-415a-9b66-4d9806cfab42&pbi_source=linkShare 
+6) Relationship plots (Scatter plot, Box plot,Heatmap)
